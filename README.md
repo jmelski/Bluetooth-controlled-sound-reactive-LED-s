@@ -41,4 +41,4 @@ Specifications
 	
 Future Improvemets
 ----------------------------------------------
-Getting more light features as well as the sound reactive being in a chosen color.
+Getting more light features as well as more color calibration in for non primary colors in sound reactive mode.
